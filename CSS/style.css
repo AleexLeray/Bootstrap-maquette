@@ -8,12 +8,22 @@
   color: white;
 }
 
+#bleu {
+  background-color: #3071A9;
+}
+
 .quatreicone {
   padding-top: 60px;
   text-align: center;
-  background-color: #469AE0;
   height: 300px;
   color: white;
+}
+.bleu {
+  background-color: #469AE0;
+}
+
+.quatreicone i {
+  font-size: 25px;
 }
 
 .Get {
@@ -21,13 +31,16 @@
   margin-bottom: 100px;
 }
 
-.footer {
+#black {
   background-color: black;
+}
+
+.footer {
   height: 80px;
 }
 
 .footer .col-lg-6 {
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 .col-lg-6 i {
@@ -38,7 +51,7 @@
 
 .col-lg-offset-2 p {
   color: white;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 #map-container {
